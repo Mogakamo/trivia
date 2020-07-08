@@ -1,0 +1,3 @@
+/home/gituser/CLionProjects/Trivia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gituser/CLionProjects/Trivia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gituser/CLionProjects/Trivia/cmake-build-debug/CMakeFiles/Trivia.dir
